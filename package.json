@@ -1,0 +1,18 @@
+{
+  "name": "simple_hello",
+  "version": "1.0.0",
+  "description": "This package will help me learn mo better fren.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\Matthew\\Documents\\GitHub\\simple_hello"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Matthew Michels",
+  "license": "ISC"
+}
